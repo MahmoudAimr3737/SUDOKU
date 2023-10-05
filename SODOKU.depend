@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695976665 source:c:\users\20109\onedrive\desktop\sodoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1696016735 source:c:\users\20109\onedrive\desktop\sodoku\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
